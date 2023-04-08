@@ -1,2 +1,3 @@
 LLVM/*/.vscode
 LLVM/*/build
+.vscode/**
